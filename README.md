@@ -36,7 +36,7 @@ Literalura é uma aplicação Java/Spring Boot para amantes de livros. Esta apli
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/literalura.git
+   git clone https://github.com/GuuiBenny92/literalura_2024.git
    cd literalura
    ```
 
@@ -124,15 +124,5 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo `LICENSE` para m
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
 ---
-
-## Imagens da aplicação em funcionamento
-
-![img](https://github.com/vitor-fidelis/literalura/blob/94bde8826b6be879fd89b3866bd793f065572c9d/imagens/imagens/Captura%20de%20ecr%C3%A3%202024-06-03%20155941.png)
-![img](https://github.com/vitor-fidelis/literalura/blob/94bde8826b6be879fd89b3866bd793f065572c9d/imagens/imagens/Captura%20de%20ecr%C3%A3%202024-06-01%20195448.png)
-![img](https://github.com/vitor-fidelis/literalura/blob/94bde8826b6be879fd89b3866bd793f065572c9d/imagens/imagens/Captura%20de%20ecr%C3%A3%202024-06-01%20195525.png)
-![img](https://github.com/vitor-fidelis/literalura/blob/main/imagens/imagens/Captura%20de%20ecr%C3%A3%202024-06-01%20195615.png)
-![img](https://github.com/vitor-fidelis/literalura/blob/94bde8826b6be879fd89b3866bd793f065572c9d/imagens/imagens/Captura%20de%20ecr%C3%A3%202024-06-03%20174736.png)
-
-
 
 Espero que você aproveite esta aplicação e que ela seja útil para suas necessidades literárias!
